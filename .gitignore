@@ -1,3 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,visualstudiocode
 
@@ -300,5 +304,6 @@ cython_debug/
 
 # Ignore code-workspaces
 *.code-workspace
+.pytest_cache
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode
